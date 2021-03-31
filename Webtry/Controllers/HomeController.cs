@@ -10,7 +10,7 @@ namespace Webtry.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Home Page helo page";
 
             return View();
         }
